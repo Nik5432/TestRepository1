@@ -10,7 +10,7 @@ public class PeopleNew {
 
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private Long id_update;
     private String name;
     private String surname;
 
