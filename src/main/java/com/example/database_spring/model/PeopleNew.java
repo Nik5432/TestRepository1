@@ -14,6 +14,10 @@ public class PeopleNew {
     private String name;
     private String surname;
 
+
+    @Column(name = "surname_test3")
+    private String surname2;
+
     public PeopleNew(String name, String surname) {
         this.name = name;
         this.surname = surname;
