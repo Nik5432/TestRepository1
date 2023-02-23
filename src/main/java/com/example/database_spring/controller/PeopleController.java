@@ -20,6 +20,7 @@ public class PeopleController {
         //peopleService.saveByParams(surname, name);
         //return HttpStatus.OK;
         String s = "";
+        String s1 = "";
     }
 }
 
