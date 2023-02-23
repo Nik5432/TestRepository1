@@ -14,6 +14,7 @@ public class PeopleNew {
     private String name;
     private String surname;
 
+
     @Column(name = "surname_test3")
     private String surname2;
 
